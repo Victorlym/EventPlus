@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "675194114940",
+    "firebase_url": "https://eventreporter-fad31.firebaseio.com",
+    "project_id": "eventreporter-fad31",
+    "storage_bucket": "eventreporter-fad31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675194114940:android:42e76512306dcb38",
+        "android_client_info": {
+          "package_name": "com.laioffer.eventreporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675194114940-n33td493ol7von5c8306iubuiccv1nkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATNTWCJ-SGc2u3K4mrXhbaOXcBeU6WAIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
